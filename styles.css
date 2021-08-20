@@ -88,7 +88,7 @@ main{
     margin-top: 1.5rem;
 }
 section{
-    background: rgba(101, 148, 201, 0.24);
+    background: #6594c93d;
     width: 100%;
     padding: 1.5rem;
     border-radius: 1rem;
@@ -165,4 +165,9 @@ section{
 }
 .date{
     text-transform: capitalize;
+}
+.zuri{
+    width: 30rem;
+    height: 5rem;
+    margin: 3rem auto;
 }
